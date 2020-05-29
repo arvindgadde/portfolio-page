@@ -14,6 +14,7 @@ export default class MyDocument extends Document {
     return (
       <html lang="en">
         <Head>
+        <title>Landing Page</title>
         <link rel="preload" href="https://fonts.googleapis.com/css?family=Righteous&display=swap" type="text/css" as="style"/>
         <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Righteous&display=swap" type="text/css"/>
           <meta charSet="utf-8" />
