@@ -1,0 +1,8 @@
+{
+    "version": 2,
+    "alias": "my-landing-page-project",
+    "name": "next-js-project",
+    "builds":[
+        {"src":"next.config.js","use":"@now/next"}
+    ]
+  }
