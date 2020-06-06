@@ -60,7 +60,7 @@ export default class About extends React.Component{
             <Icon className="D I"><p className="t"> Take a look at my Resume!</p><Linkw href="https://dev.to/nodeicode"><i className="fas fa-address-card"/></Linkw></Icon>
             {this.state.show?(<style global jsx>{`.I{display:block}`}</style>):null}
             <div className="footer">
-              <p>Contact Me: <a class="footert" href="arvindgadde007@gmail.com"> arvindgadde007@gmail.com</a></p>
+              <p>Contact Me: <a class="footert" href="arvindgadde999@gmail.com"> arvindgadde999@gmail.com</a></p>
             </div>
           </div>
         );

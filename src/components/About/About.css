@@ -14,8 +14,7 @@ a{
   padding-top:2vmin;
   grid-row:3;
   font-size:2vmax;
-  align-self: center;
-  justify-self: start; 
+  place-self: center;
 }
 .L{
   grid-column:1/2;
@@ -80,7 +79,7 @@ display: none;
 }
 .b{
   grid-row:4;
-  grid-column: 3/4;
+  grid-column: 2/5;
   padding:2vmin;
   line-height: 2vmax;
   text-align: left;
@@ -150,10 +149,10 @@ h2{
 }
 img{
   border-radius: 50%;
-  width:10vmax;
+  width:10.8vmax;
   justify-self: center;
   align-self: center;
-  height: 10vmax;
+  height: 11vmax;
   display: inline-block;
 }
   
