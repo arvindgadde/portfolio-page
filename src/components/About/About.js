@@ -50,11 +50,11 @@ export default class About extends React.Component{
               </Typist>
             <Card className="b">
               {/*Content under About Me! */}
-              <a className="ab"> ❤️ Javascript, heavily focused on React, Node and Next. Interested in knowing more about me 🤔? Contact me on any of my handles 😊 
+              <a className="ab"> Experienced Business Intelligence Analyst with a demonstrated history of working in the financial services industry. Designed, developed and implemented innovative Analytical Dashboard solutions and ad-hoc reports for various business sectors using TIBCO Spotfire. Skilled in Databases, Software Development Life Cycle (SDLC), and Visual Basic .NET (VB.NET). Strong research professional with a Bachelor’s Degree focused in Management Information Systems from the University of Illinois at Chicago. 
               </a>
             </Card>
-            <Icon className="L I"><Linkw href="https://www.linkedin.com/in/lohit-aryan/"><i className="fab fa-linkedin"/></Linkw></Icon>
-            <Icon className="T I"><Linkw href="https://twitter.com/stackicode/"><i className="fab fa-facebook"/></Linkw></Icon>
+            <Icon className="L I"><Linkw href="https://www.linkedin.com/in/gadde96/"><i className="fab fa-linkedin"/></Linkw></Icon>
+            <Icon className="T I"><Linkw href="https://www.facebook.com/arvindgadde8899"><i className="fab fa-facebook"/></Linkw></Icon>
 
             {/* in the href below add link to your resume! */}
             <Icon className="D I"><p className="t"> Take a look at my Resume!</p><Linkw href="https://dev.to/nodeicode"><i className="fas fa-address-card"/></Linkw></Icon>
